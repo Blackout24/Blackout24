@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**Blackout24/Blackout24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student building web platforms, 3D interfaces, and practical service apps.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Obsidian plugin development and debugging
+
+## Tech
+
+`PHP` `SQL Server` `JavaScript` `C#`
+
+## Currently
+
+Working on group IT project 
+
+---
+📫 Reach me via GitHub issues or [solemate.co.za](https://solemate.co.za)
