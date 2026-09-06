@@ -15,4 +15,4 @@ IT student building web platforms, 3D interfaces, and practical service apps.
 Working on group IT project 
 
 ---
-📫 Reach me via GitHub issues or [solemate.co.za](https://solemate.co.za)
+📫 Reach me via GitHub issues or rahul.sewdutt@gmail.com
